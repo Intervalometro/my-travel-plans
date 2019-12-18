@@ -46,11 +46,17 @@ h2 {
     text-shadow: 0 0 5px #01579b;
 }
 
+#ohio {
+    background-color: #f3a9f4;
+}
 #florida {
-    background-color: #03a9f4;
+    background-color: #0fa9f4;
+}
+#colorado {
+    background-color: #03f9f4;
+}
+#paris {
+    background-color: #d3ff2f;
 }
 
-#paris {
-    background-color: #d32f2f;
-}
 
